@@ -1,0 +1,7 @@
+pyproject.toml
+src/plato_forge_emitter/__init__.py
+src/plato_forge_emitter/emitter.py
+src/plato_forge_emitter.egg-info/PKG-INFO
+src/plato_forge_emitter.egg-info/SOURCES.txt
+src/plato_forge_emitter.egg-info/dependency_links.txt
+src/plato_forge_emitter.egg-info/top_level.txt
